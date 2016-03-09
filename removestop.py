@@ -25,9 +25,11 @@ for line in txt:
 				
 		#	print lis
 	if(new[-1] == '1'):
+		new.remove('1')
 		pos.write(" ".join(new))
 		pos.write("\n")
-	else:
+	if(new[-1] == '0'):
+		new.remove('0')
 		neg.write(" ".join(new))
 		neg.write("\n")
 		

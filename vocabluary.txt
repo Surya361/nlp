@@ -4,6 +4,7 @@ entertaining
 independent
 worth
 seeking
+1
 comedydrama
 nearly
 epic
@@ -33,6 +34,7 @@ ends
 sounding
 like
 satire
+0
 movie
 progression
 rambling
