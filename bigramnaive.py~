@@ -69,7 +69,7 @@ def create(number):
     #for k,l in 
 
     voc_size= len([w for w in tbfl if tbfl[w] >= 2])
-    #print voc_size
+    print voc_size
 
 
 
