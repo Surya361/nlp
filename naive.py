@@ -40,8 +40,8 @@ def populate(filed):
 		voc = voc + i
 	return voc
 
-def prob(word,lis):
-	k = (lis.count(word) + 1)/(len(lis) + len(set(lis)))
+def prob(word,lis,lis1):
+	k = (lis.count(word) + 1)/(len(lis) + len(set(lis)) + len(set(lis1)) )
 #	print lis.count(word)
 #	print (len(lis) + len(set(lis)))
 #	print k
@@ -52,8 +52,8 @@ def classify(stri,posi,negi):
 	nprob = 0
 	pprob = 0
 	for i in stri:
-		nprob = nprob + prob(i,negi)
-		pprob = pprob + prob(i,posi)
+		nprob = nprob + prob(i,negi,posi)
+		pprob = pprob + prob(i,posi,negi)
 	if(nprob > pprob):
 		return '0'
 	else:
