@@ -25,7 +25,7 @@ def create(number):
 				pos = pos + lis[:-1]
 			else:
 				neg = neg + lis[:-1]
-			for word in line:
+			for word in lis:
 				if (word not in voab and (word != "1" or word != "0")):
 					voab.append(word)
 		j = (j+1)%10
@@ -40,20 +40,20 @@ def populate(filed):
 		voc = voc + i
 	return voc
 
-def prob(word,lis,lis1):
-	k = (lis.count(word) + 1)/(len(lis) + len(set(lis)) + len(set(lis1)) )
+def prob(word,lis,voc):
+	k = (lis.count(word) + 1)/(len(lis) + len(voc) )
 #	print lis.count(word)
 #	print (len(lis) + len(set(lis)))
 #	print k
 	return math.log10(k)
 
-def classify(stri,posi,negi):
+def classify(stri,posi,negi,v):
 	stri = stri.split()
 	nprob = 0
 	pprob = 0
 	for i in stri:
-		nprob = nprob + prob(i,negi,posi)
-		pprob = pprob + prob(i,posi,negi)
+		nprob = nprob + prob(i,negi,v)
+		pprob = pprob + prob(i,posi,v)
 	if(nprob > pprob):
 		return '0'
 	else:
@@ -74,7 +74,7 @@ def validation(number):
 		li = li[:-1]
 		linee = " ".join(li)
 	#	print linee
-		res = classify(linee,positive,negative)	
+		res = classify(linee,positive,negative,vocab)	
 		lis = line.split()
 	#	print "checking",lis[-1],res
 		if (lis[-1] == res):
