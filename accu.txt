@@ -1,3 +1,8 @@
+Natural Language Processing ------Multinomial Naive Bayesian Classification
+
+Members: Palavalasa Surya Teja(B120599CS) 
+Vangapally Ujwal(B120905CS) 
+Chimakurthy Ganesh(B120780CS)
 0 - 84.375
 1 - 79.375
 2 - 85.0
