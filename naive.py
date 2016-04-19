@@ -15,9 +15,9 @@ def create(number):
 	j = (j+1) % 10
 	pos = []
 	neg = []
-	voab = []
+	voab = {}
 	while(j != int(number)):
-		print "learning file",j
+		#print "learning file",j
 		fil = open(str(j),'r')
 		for line in fil:
 			lis = line.split()
@@ -26,10 +26,18 @@ def create(number):
 			else:
 				neg = neg + lis[:-1]
 			for word in lis:
-				if (word not in voab and (word != "1" or word != "0")):
-					voab.append(word)
+			#	print word
+				if (word not in voab.keys() and (word != "1" or word != "0")):
+					voab[word] = 1;
+				else:
+					voab[word] = voab[word] + 1;
+		
+		#print voab			
 		j = (j+1)%10
 		fil.close()
+	for w in voab.keys():
+		if(voab[w] < 2):
+			del voab[w]
 	return (pos,neg,voab)
 			
 	
@@ -41,10 +49,10 @@ def populate(filed):
 	return voc
 
 def prob(word,lis,voc):
-	k = (lis.count(word) + 1)/(len(lis) + len(voc) )
-#	print lis.count(word)
-#	print (len(lis) + len(set(lis)))
-#	print k
+	if(word in voc.keys() and voc[word] >= 2):
+		k = (lis.count(word) + 1)/(len(lis) + len(voc) )
+	else:
+		k = 1/(len(lis) + len(voc))
 	return math.log10(k)
 
 def classify(stri,posi,negi,v):

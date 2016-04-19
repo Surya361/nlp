@@ -4,6 +4,7 @@ entertaining
 independent
 worth
 seeking
+1
 comedydrama
 nearly
 epic
@@ -21,7 +22,6 @@ absolute
 joy
 best
 indie
-year
 far
 hampered
 paralyzed
@@ -32,7 +32,8 @@ poetry
 ends
 sounding
 like
-satir
+satire
+0
 movie
 progression
 rambling
@@ -45,6 +46,7 @@ fatal
 error
 tartakovsky
 team
+has
 freakish
 powers
 visual
@@ -63,7 +65,6 @@ frighten
 disturb
 works
 spectacularly
-well
 shiverinducing
 nerverattling
 ride
@@ -74,6 +75,7 @@ subject
 drawn
 engaging
 characters
+while
 peppering
 pages
 memorable
@@ -87,7 +89,6 @@ rather
 place
 blame
 making
-one
 war
 movies
 ever
@@ -115,6 +116,7 @@ plausible
 perhaps
 cliche
 refreshing
+both
 lead
 oscarsize
 run
@@ -136,8 +138,10 @@ pgrating
 smart
 provocative
 drama
+does
 impossible
 gets
+under
 skin
 man
 know
@@ -174,6 +178,7 @@ reporting
 number
 tumbleweeds
 blowing
+through
 empty
 theatres
 graced
@@ -184,10 +189,13 @@ resonant
 rainbow
 emotion
 analyze
+those
 crass
 contrived
 sequels
+not
 fails
+own
 makes
 secondguess
 affection
@@ -209,7 +217,6 @@ returns
 filmmaking
 visually
 masterful
-work
 power
 whole
 sneaky
@@ -218,10 +225,10 @@ trying
 dupe
 viewer
 taking
+very
 important
 simply
 ugly
-look
 hollywood
 product
 years
@@ -238,6 +245,7 @@ spiderman
 better
 summer
 blockbuster
+had
 endure
 last
 hopefully
@@ -261,12 +269,10 @@ chooses
 champion
 ultimately
 losing
-cause
 triumph
 hews
 world
 carries
-us
 effortlessly
 darkness
 light
@@ -277,9 +283,7 @@ intriguing
 intoxicating
 beyond
 comprehension
-even
-nt
-would
+were
 still
 poor
 editing
@@ -328,6 +332,7 @@ favors
 famous
 parents
 nothing
+more
 amiable
 unfocused
 bagatelle
@@ -352,6 +357,7 @@ dull
 incomprehensible
 beautifully
 crafted
+should
 attract
 upscale
 audiences
@@ -403,13 +409,14 @@ equivalent
 staring
 open
 wound
-ve
+been
 nice
 screenwriters
 trusted
 understand
 complex
 left
+off
 predictable
 denouement
 blend
@@ -430,9 +437,8 @@ imagine
 confused
 less
 sloppily
-could
 possibly
-come
+down
 road
 ah
 yes
@@ -486,7 +492,6 @@ deep
 sillier
 cuter
 shorter
-first
 lrb
 remember
 rrb
@@ -503,6 +508,7 @@ head
 goes
 public
 avoid
+being
 recognized
 bilked
 unsuspecting
@@ -534,7 +540,6 @@ romantic
 comedy
 confident
 pair
-way
 destination
 really
 special
@@ -557,8 +562,8 @@ flat
 looks
 fake
 festers
+such
 dungpile
-d
 swear
 watching
 monkeys
@@ -569,7 +574,6 @@ overcooked
 direction
 actors
 reaching
-back
 row
 sounds
 horrible
@@ -635,7 +639,6 @@ comparison
 earlier
 seems
 disappointingly
-thin
 slice
 lowerclass
 london
@@ -657,15 +660,14 @@ creative
 base
 concept
 help
-get
 caught
 appears
+whom
 idea
 logic
 cohesion
 entirely
 foreign
-see
 relative
 letdown
 leigh
@@ -681,7 +683,6 @@ automatically
 bypass
 hiphop
 documentary
-give
 scratch
 second
 stupid
@@ -705,6 +706,7 @@ destiny
 told
 master
 storyteller
+once
 expectation
 laughter
 quashed
@@ -721,6 +723,7 @@ midnight
 telling
 creepy
 stories
+each
 willies
 ambitious
 shiner
@@ -742,7 +745,6 @@ respect
 audience
 twenty
 release
-et
 remains
 wondrous
 fantasies
@@ -765,6 +767,7 @@ bunch
 flailing
 caper
 neither
+nor
 terribly
 illconceived
 expensive
@@ -817,6 +820,7 @@ hoped
 moist
 attal
 pushes
+too
 hard
 serious
 though
@@ -832,6 +836,7 @@ working
 today
 overplayed
 exaggerated
+again
 subtlety
 never
 trademark
@@ -887,6 +892,7 @@ four
 sara
 sugarman
 stoops
+having
 drop
 pants
 provoke
@@ -907,6 +913,7 @@ quietly
 cop
 perfectly
 pitched
+between
 tragedy
 despair
 schmidt
@@ -929,6 +936,7 @@ magic
 makebelieve
 promise
 soars
+above
 realm
 opposite
 truly
@@ -936,6 +944,7 @@ magical
 stopped
 thinking
 started
+doing
 reacting
 part
 grand
@@ -957,12 +966,10 @@ affects
 cultural
 geographical
 displacement
-m
 sure
 worse
 ensemble
 vincent
-r
 nebrida
 gutless
 laurice
@@ -979,7 +986,6 @@ true
 events
 somehow
 none
-wit
 previous
 pictures
 jay
@@ -1024,6 +1030,7 @@ heard
 mysterious
 voice
 felt
+myself
 powerfully
 toward
 exit
@@ -1056,7 +1063,6 @@ machine
 mostly
 universal
 earnest
-use
 music
 india
 popular
@@ -1164,7 +1170,6 @@ vivid
 unapologetically
 comingofage
 drugs
-n
 roll
 bittersweet
 contemporary
@@ -1184,7 +1189,9 @@ actual
 terrible
 regard
 painful
+why
 spend
+same
 buck
 greasy
 vidgame
@@ -1307,7 +1314,6 @@ interminable
 shapeless
 swinging
 subculture
-two
 together
 york
 practically
@@ -1325,6 +1331,7 @@ ultimate
 fate
 guess
 crew
+did
 pact
 burn
 negative
@@ -1334,6 +1341,7 @@ sports
 largeframe
 camera
 lends
+itself
 filming
 teeming
 reefs
@@ -1344,6 +1352,7 @@ scientists
 grownup
 fish
 lovers
+few
 argue
 ranks
 herzog
@@ -1368,7 +1377,6 @@ wines
 merchant
 ivory
 productions
-ll
 settle
 cool
 glass
@@ -1376,7 +1384,6 @@ iced
 tea
 jerry
 bruckheimer
-day
 week
 muddled
 limp
@@ -1432,7 +1439,6 @@ grownups
 whimsical
 interminably
 bleak
-say
 naturally
 home
 crave
@@ -1500,7 +1506,7 @@ free
 abandon
 leave
 wanting
-re
+before
 desperate
 rejected
 xfiles
@@ -1624,6 +1630,7 @@ woody
 allen
 mel
 brooks
+during
 heyday
 lame
 sophomoric
@@ -1639,7 +1646,6 @@ excesses
 nouvelle
 vague
 weak
-ca
 support
 treatment
 wonderfully
@@ -1662,7 +1668,6 @@ inconsistent
 margarita
 kinda
 resembles
-el
 cheapo
 margaritas
 served
@@ -1681,7 +1686,6 @@ stinks
 sopranos
 dated
 unfunny
-also
 demonstrate
 makers
 doingitfor
@@ -1740,6 +1744,7 @@ carry
 dickensian
 hero
 measured
+against
 likethemed
 oscarsweeping
 franchise
@@ -1833,7 +1838,6 @@ dreamlike
 ecstasy
 press
 delete
-go
 daily
 activities
 sparkling
@@ -1849,7 +1853,6 @@ halfbaked
 setups
 sluggish
 pacing
-think
 attraction
 understated
 jack
@@ -1896,6 +1899,7 @@ stark
 reminder
 casualties
 reach
+further
 soso
 madefortv
 posing
@@ -2066,6 +2070,7 @@ book
 translate
 thirty
 seconds
+yourself
 personally
 planet
 lively
@@ -2306,6 +2311,7 @@ irrelevant
 bottomlessly
 cynical
 wellcontructed
+where
 adage
 careful
 wish
@@ -2357,6 +2363,7 @@ geneva
 mounting
 tension
 expert
+until
 beneath
 gradually
 screening
@@ -2410,6 +2417,7 @@ responsible
 patient
 tenacious
 mr
+himself
 approaches
 serenity
 discipline
@@ -2841,6 +2849,7 @@ gutsy
 executed
 breath
 shoot
+themselves
 oily
 arms
 dealer
@@ -3037,7 +3046,6 @@ spouses
 counting
 grossout
 forget
-want
 bolt
 wait
 grandkids
@@ -3792,7 +3800,6 @@ soured
 santa
 clause
 bumps
-st
 century
 icky
 happened
@@ -3986,7 +3993,6 @@ politics
 almodovar
 beauty
 numb
-o
 fantasma
 journalistic
 promises
@@ -4137,7 +4143,6 @@ bettany\mcdowell
 hardeyed
 cusack
 outrageous
-wo
 excited
 hos
 unmentionable
@@ -4397,6 +4402,7 @@ crawl
 embarrassment
 engages
 fits
+ourselves
 surprised
 walking
 satisfied
@@ -4418,7 +4424,6 @@ bouncy
 clutch
 songs
 punctuation
-ye
 sensational
 thcentury
 exactly
@@ -4573,7 +4578,6 @@ treats
 fondness
 robots
 haul
-em
 science
 killer
 website
@@ -4846,7 +4850,6 @@ inspire
 elves
 snow
 pimps
-ho
 cram
 earplugs
 pillowcases
@@ -4943,6 +4946,7 @@ fragment
 underdone
 potato
 infuriating
+herself
 hispanic
 teethclenching
 gusto
@@ -5057,7 +5061,6 @@ hack
 dud
 mike
 tyson
-e
 eccentrics
 clarity
 audacity
@@ -5182,7 +5185,6 @@ mistake
 sketchy
 workinprogress
 megaplexes
-hey
 everybody
 wanna
 party
@@ -5201,7 +5203,6 @@ sexuality
 sooooo
 firstclass
 involving
-b
 surefire
 beloved
 prison
@@ -5726,6 +5727,7 @@ shapable
 present
 replacing
 objects
+below
 besotted
 misbegotten
 undercover
@@ -5910,7 +5912,6 @@ mikes
 cannes
 sole
 conditioning
-ac
 serviceable
 welldirected
 moodiness
@@ -6092,7 +6093,6 @@ awed
 sportsmen
 program
 rarity
-g
 starring
 eats
 wellwritten
@@ -6749,7 +6749,6 @@ hashiguchi
 covers
 suggesting
 emerging
-l
 ame
 gidget
 muscles
@@ -6851,7 +6850,6 @@ maneuvers
 host
 flourishes
 dot
-com
 resentment
 pretence
 moron
@@ -6933,6 +6931,7 @@ arresting
 image
 randomness
 lowwattage
+don
 orc
 urukhai
 wooden
@@ -6983,7 +6982,6 @@ archive
 aiello
 mumbles
 griffin
-co
 yakusho
 longfaced
 sack
@@ -7026,7 +7024,6 @@ grasping
 workshop
 unleashes
 misogyny
-er
 volcano
 overflowing
 septic
