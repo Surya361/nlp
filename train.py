@@ -15,7 +15,7 @@ def create():
 	j = 0
 	pos = []
 	neg = []
-	voab = []
+	voab = {}
 	while(j != 10):
 		print "learning file",j
 		fil = open(str(j),'r')
@@ -27,10 +27,15 @@ def create():
 			else:
 				neg = neg + lis[:-1]
 			for word in lis:
-				if (word not in voab and (word != "1" or word != "0")):
-					voab.append(word)
+				if (word not in voab.keys() and (word != "1" or word != "0")):
+					voab[word] = 1;
+				else:
+					voab[word] = voab[word] + 1;
 		j = (j+1)
 		fil.close()
+	for w in voab.keys():
+		if (voab[w] < 2):
+			del voab[w]
 	return (pos,neg,voab)
 			
 	
@@ -42,7 +47,10 @@ def populate(filed):
 	return voc
 
 def prob(word,lis,vocab):
-	k = (lis.count(word) + 1)/(len(lis) + len(vocab) )
+	if (word in vocab.keys() and vocab[word] >= 2):
+		k = (lis.count(word) + 1)/(len(lis) + len(vocab) )
+	else:
+		k = 1/(len(lis) + len(voc))
 #	print lis.count(word)
 #	print (len(lis) + len(set(lis)))
 #	print k
@@ -54,8 +62,8 @@ def train():
 	pos,neg,v = create()
 	for line in v:
 #		print line
-		pprob = prob(line,pos,neg)
-		nprob = prob(line,neg,pos)
+		pprob = prob(line,pos,v)
+		nprob = prob(line,neg,v)
 		ps_prob_dic[line] = pprob
 		neg_prob_dic[line] = nprob
 #	print ps_prob_dic
